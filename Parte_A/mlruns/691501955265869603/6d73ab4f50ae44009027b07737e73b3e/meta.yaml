@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/karina/bcamp/Data%20Science/12_Trabajo%20Final/Parte_A/mlruns/691501955265869603/6d73ab4f50ae44009027b07737e73b3e/artifacts
+deleted_time: 1686792986199
+end_time: null
+entry_point_name: ''
+experiment_id: '691501955265869603'
+lifecycle_stage: deleted
+run_id: 6d73ab4f50ae44009027b07737e73b3e
+run_name: hilarious-asp-405
+run_uuid: 6d73ab4f50ae44009027b07737e73b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686792599134
+status: 1
+tags: []
+user_id: karina

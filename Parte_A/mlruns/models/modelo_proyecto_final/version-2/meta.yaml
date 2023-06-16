@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1686793048329
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1686793054966
+name: modelo_proyecto_final
+run_id: 0b63a70ff99c440faede51632fd5b873
+run_link: ''
+source: file:///c:/Users/karina/bcamp/Data%20Science/12_Trabajo%20Final/Parte_A/mlruns/691501955265869603/0b63a70ff99c440faede51632fd5b873/artifacts/modelo_proyecto_final
+status: READY
+status_message: null
+user_id: null
+version: 2

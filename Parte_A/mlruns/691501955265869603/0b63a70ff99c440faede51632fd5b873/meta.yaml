@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/karina/bcamp/Data%20Science/12_Trabajo%20Final/Parte_A/mlruns/691501955265869603/0b63a70ff99c440faede51632fd5b873/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '691501955265869603'
+lifecycle_stage: active
+run_id: 0b63a70ff99c440faede51632fd5b873
+run_name: loud-finch-854
+run_uuid: 0b63a70ff99c440faede51632fd5b873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686793004407
+status: 1
+tags: []
+user_id: karina
